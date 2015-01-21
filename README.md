@@ -2,4 +2,4 @@
 
 
 ## License
-Copyright (c ) 2013, Alfresco Software Ltd. October 2013
+Copyright (c ) 2015, Alfresco Software Ltd. January 2015
